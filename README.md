@@ -1,2 +1,0 @@
-# AOT
-AOT Discord RP
